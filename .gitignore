@@ -36,5 +36,5 @@ yarn-debug.log*
 .yarn-integrity
 
 # I don't want to show my secrets
-/config/credentials.yml.end
+/config/credentials.yml.enc
 /config/webpack/credentials.yml.enc
